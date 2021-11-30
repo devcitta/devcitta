@@ -9,6 +9,7 @@
   <a href="https://play.google.com/store/apps/developer?id=Citt%C3%A0+-+Intelig%C3%AAncia+em+Gest%C3%A3o+P%C3%BAblica" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cittatec" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/company/cittainfo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCdLYdISHDj_0zisCQguUScA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 ## Criando Soluções
