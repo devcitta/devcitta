@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://www.cittainformatica.com.br">
+  <img height="50em" src="http://www.cittainformatica.com.br/wp-content/uploads/2014/12/logo-horizontal.png"/>
+  <h1>Città - Inteligência em Gestão Pública</h1>
+</div>
 
 <!--
 **devcitta/devcitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
