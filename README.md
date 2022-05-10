@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.cittainformatica.com.br">
-  <img height="250em" src="cittaIso.png"/>
+  <img height="250em" src="Logo horiz.png"/>
 </div>
 <br>
 <div align="center">
